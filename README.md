@@ -4,7 +4,7 @@ This is the source code for the project Flight Rout
 
 To use this sorce code put all the files in the same folder (including the logo file)
 
-You will need to create also 4 folders.
+You will need to create also 4 folders:
 
 delay_raw
 fares_raw
